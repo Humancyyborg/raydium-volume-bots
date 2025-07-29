@@ -64,3 +64,9 @@ https://t.me/vladmeer67
 https://x.com/vladmeer67
 
 You can always find me here, for help, or for other projects.
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
